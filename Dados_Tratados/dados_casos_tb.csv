@@ -1,0 +1,541 @@
+ano,uf,n_casos_tb
+2001,Rondônia,662
+2002,Rondônia,636
+2003,Rondônia,648
+2004,Rondônia,623
+2005,Rondônia,628
+2006,Rondônia,518
+2007,Rondônia,544
+2008,Rondônia,563
+2009,Rondônia,665
+2010,Rondônia,575
+2011,Rondônia,686
+2012,Rondônia,694
+2013,Rondônia,720
+2014,Rondônia,690
+2015,Rondônia,660
+2016,Rondônia,779
+2017,Rondônia,772
+2018,Rondônia,697
+2019,Rondônia,737
+2020,Rondônia,590
+2001,Acre,353
+2002,Acre,373
+2003,Acre,370
+2004,Acre,350
+2005,Acre,329
+2006,Acre,383
+2007,Acre,315
+2008,Acre,327
+2009,Acre,364
+2010,Acre,342
+2011,Acre,392
+2012,Acre,414
+2013,Acre,394
+2014,Acre,440
+2015,Acre,389
+2016,Acre,436
+2017,Acre,489
+2018,Acre,484
+2019,Acre,584
+2020,Acre,553
+2001,Amazonas,2333
+2002,Amazonas,2271
+2003,Amazonas,2333
+2004,Amazonas,2557
+2005,Amazonas,2498
+2006,Amazonas,2442
+2007,Amazonas,2443
+2008,Amazonas,2691
+2009,Amazonas,2604
+2010,Amazonas,2750
+2011,Amazonas,2699
+2012,Amazonas,2830
+2013,Amazonas,3066
+2014,Amazonas,3127
+2015,Amazonas,3401
+2016,Amazonas,3284
+2017,Amazonas,3697
+2018,Amazonas,3794
+2019,Amazonas,3958
+2020,Amazonas,3520
+2001,Roraima,149
+2002,Roraima,172
+2003,Roraima,200
+2004,Roraima,217
+2005,Roraima,160
+2006,Roraima,149
+2007,Roraima,137
+2008,Roraima,156
+2009,Roraima,145
+2010,Roraima,150
+2011,Roraima,167
+2012,Roraima,141
+2013,Roraima,167
+2014,Roraima,148
+2015,Roraima,170
+2016,Roraima,162
+2017,Roraima,206
+2018,Roraima,262
+2019,Roraima,323
+2020,Roraima,293
+2001,Pará,3447
+2002,Pará,3764
+2003,Pará,3936
+2004,Pará,4077
+2005,Pará,3992
+2006,Pará,3819
+2007,Pará,3741
+2008,Pará,3792
+2009,Pará,4091
+2010,Pará,4101
+2011,Pará,4349
+2012,Pará,4040
+2013,Pará,4131
+2014,Pará,3944
+2015,Pará,3974
+2016,Pará,4216
+2017,Pará,4512
+2018,Pará,4699
+2019,Pará,5512
+2020,Pará,4521
+2001,Amapá,216
+2002,Amapá,295
+2003,Amapá,274
+2004,Amapá,277
+2005,Amapá,269
+2006,Amapá,247
+2007,Amapá,275
+2008,Amapá,265
+2009,Amapá,258
+2010,Amapá,219
+2011,Amapá,256
+2012,Amapá,256
+2013,Amapá,220
+2014,Amapá,210
+2015,Amapá,223
+2016,Amapá,284
+2017,Amapá,306
+2018,Amapá,279
+2019,Amapá,363
+2020,Amapá,273
+2001,Tocantins,280
+2002,Tocantins,330
+2003,Tocantins,275
+2004,Tocantins,280
+2005,Tocantins,263
+2006,Tocantins,256
+2007,Tocantins,230
+2008,Tocantins,221
+2009,Tocantins,217
+2010,Tocantins,221
+2011,Tocantins,221
+2012,Tocantins,181
+2013,Tocantins,190
+2014,Tocantins,193
+2015,Tocantins,190
+2016,Tocantins,208
+2017,Tocantins,185
+2018,Tocantins,233
+2019,Tocantins,239
+2020,Tocantins,204
+2001,Maranhão,2818
+2002,Maranhão,2981
+2003,Maranhão,2987
+2004,Maranhão,2949
+2005,Maranhão,3179
+2006,Maranhão,2947
+2007,Maranhão,2752
+2008,Maranhão,2434
+2009,Maranhão,2483
+2010,Maranhão,2406
+2011,Maranhão,2498
+2012,Maranhão,2173
+2013,Maranhão,2316
+2014,Maranhão,2081
+2015,Maranhão,2277
+2016,Maranhão,2412
+2017,Maranhão,2505
+2018,Maranhão,2659
+2019,Maranhão,2705
+2020,Maranhão,2358
+2001,Piauí,1547
+2002,Piauí,1471
+2003,Piauí,1400
+2004,Piauí,1576
+2005,Piauí,1564
+2006,Piauí,1352
+2007,Piauí,1319
+2008,Piauí,1231
+2009,Piauí,1117
+2010,Piauí,986
+2011,Piauí,1020
+2012,Piauí,927
+2013,Piauí,903
+2014,Piauí,815
+2015,Piauí,773
+2016,Piauí,794
+2017,Piauí,805
+2018,Piauí,879
+2019,Piauí,874
+2020,Piauí,792
+2001,Ceará,3747
+2002,Ceará,4068
+2003,Ceará,5228
+2004,Ceará,4363
+2005,Ceará,4695
+2006,Ceará,4207
+2007,Ceará,4072
+2008,Ceará,4486
+2009,Ceará,4649
+2010,Ceará,4311
+2011,Ceará,4376
+2012,Ceará,4264
+2013,Ceará,4071
+2014,Ceará,3884
+2015,Ceará,4014
+2016,Ceará,4034
+2017,Ceará,4316
+2018,Ceará,4560
+2019,Ceará,4582
+2020,Ceará,3832
+2001,Rio Grande do Norte,1139
+2002,Rio Grande do Norte,1167
+2003,Rio Grande do Norte,1356
+2004,Rio Grande do Norte,1368
+2005,Rio Grande do Norte,1343
+2006,Rio Grande do Norte,1191
+2007,Rio Grande do Norte,1091
+2008,Rio Grande do Norte,1203
+2009,Rio Grande do Norte,1212
+2010,Rio Grande do Norte,1103
+2011,Rio Grande do Norte,1239
+2012,Rio Grande do Norte,1218
+2013,Rio Grande do Norte,1273
+2014,Rio Grande do Norte,1194
+2015,Rio Grande do Norte,1142
+2016,Rio Grande do Norte,1183
+2017,Rio Grande do Norte,1331
+2018,Rio Grande do Norte,1597
+2019,Rio Grande do Norte,1452
+2020,Rio Grande do Norte,1553
+2001,Paraíba,1338
+2002,Paraíba,1391
+2003,Paraíba,1451
+2004,Paraíba,1507
+2005,Paraíba,1473
+2006,Paraíba,1134
+2007,Paraíba,1180
+2008,Paraíba,1319
+2009,Paraíba,1328
+2010,Paraíba,1327
+2011,Paraíba,1421
+2012,Paraíba,1399
+2013,Paraíba,1452
+2014,Paraíba,1332
+2015,Paraíba,1234
+2016,Paraíba,1221
+2017,Paraíba,1357
+2018,Paraíba,1531
+2019,Paraíba,1501
+2020,Paraíba,1274
+2001,Pernambuco,4308
+2002,Pernambuco,4859
+2003,Pernambuco,5168
+2004,Pernambuco,5439
+2005,Pernambuco,5359
+2006,Pernambuco,4963
+2007,Pernambuco,4771
+2008,Pernambuco,4982
+2009,Pernambuco,4993
+2010,Pernambuco,5215
+2011,Pernambuco,5347
+2012,Pernambuco,5681
+2013,Pernambuco,5488
+2014,Pernambuco,5460
+2015,Pernambuco,5643
+2016,Pernambuco,5529
+2017,Pernambuco,6296
+2018,Pernambuco,6484
+2019,Pernambuco,6816
+2020,Pernambuco,6210
+2001,Alagoas,1271
+2002,Alagoas,1345
+2003,Alagoas,1401
+2004,Alagoas,1435
+2005,Alagoas,1483
+2006,Alagoas,1395
+2007,Alagoas,1339
+2008,Alagoas,1368
+2009,Alagoas,1480
+2010,Alagoas,1343
+2011,Alagoas,1368
+2012,Alagoas,1330
+2013,Alagoas,1313
+2014,Alagoas,1271
+2015,Alagoas,1065
+2016,Alagoas,1227
+2017,Alagoas,1296
+2018,Alagoas,1327
+2019,Alagoas,1310
+2020,Alagoas,993
+2001,Sergipe,492
+2002,Sergipe,590
+2003,Sergipe,670
+2004,Sergipe,653
+2005,Sergipe,827
+2006,Sergipe,718
+2007,Sergipe,588
+2008,Sergipe,691
+2009,Sergipe,704
+2010,Sergipe,632
+2011,Sergipe,666
+2012,Sergipe,613
+2013,Sergipe,712
+2014,Sergipe,793
+2015,Sergipe,766
+2016,Sergipe,792
+2017,Sergipe,820
+2018,Sergipe,972
+2019,Sergipe,1014
+2020,Sergipe,852
+2001,Bahia,7762
+2002,Bahia,7726
+2003,Bahia,8472
+2004,Bahia,8124
+2005,Bahia,7950
+2006,Bahia,7267
+2007,Bahia,6689
+2008,Bahia,6626
+2009,Bahia,7001
+2010,Bahia,6478
+2011,Bahia,6409
+2012,Bahia,6033
+2013,Bahia,5748
+2014,Bahia,5667
+2015,Bahia,5315
+2016,Bahia,5272
+2017,Bahia,5508
+2018,Bahia,5662
+2019,Bahia,5706
+2020,Bahia,4603
+2001,Minas Gerais,1166
+2002,Minas Gerais,5875
+2003,Minas Gerais,5934
+2004,Minas Gerais,6090
+2005,Minas Gerais,5955
+2006,Minas Gerais,5425
+2007,Minas Gerais,5295
+2008,Minas Gerais,5202
+2009,Minas Gerais,4862
+2010,Minas Gerais,4456
+2011,Minas Gerais,4596
+2012,Minas Gerais,4283
+2013,Minas Gerais,4196
+2014,Minas Gerais,4220
+2015,Minas Gerais,4014
+2016,Minas Gerais,4068
+2017,Minas Gerais,4105
+2018,Minas Gerais,4235
+2019,Minas Gerais,4327
+2020,Minas Gerais,3978
+2001,Espírito Santo,1614
+2002,Espírito Santo,1596
+2003,Espírito Santo,1533
+2004,Espírito Santo,1528
+2005,Espírito Santo,1462
+2006,Espírito Santo,1345
+2007,Espírito Santo,1432
+2008,Espírito Santo,1534
+2009,Espírito Santo,1432
+2010,Espírito Santo,1482
+2011,Espírito Santo,1444
+2012,Espírito Santo,1462
+2013,Espírito Santo,1378
+2014,Espírito Santo,1315
+2015,Espírito Santo,1390
+2016,Espírito Santo,1236
+2017,Espírito Santo,1321
+2018,Espírito Santo,1479
+2019,Espírito Santo,1476
+2020,Espírito Santo,1781
+2001,Rio de Janeiro,16528
+2002,Rio de Janeiro,16779
+2003,Rio de Janeiro,15876
+2004,Rio de Janeiro,15932
+2005,Rio de Janeiro,15268
+2006,Rio de Janeiro,14408
+2007,Rio de Janeiro,14040
+2008,Rio de Janeiro,14499
+2009,Rio de Janeiro,14531
+2010,Rio de Janeiro,14278
+2011,Rio de Janeiro,14279
+2012,Rio de Janeiro,14118
+2013,Rio de Janeiro,13487
+2014,Rio de Janeiro,13042
+2015,Rio de Janeiro,13295
+2016,Rio de Janeiro,13538
+2017,Rio de Janeiro,14084
+2018,Rio de Janeiro,14749
+2019,Rio de Janeiro,15044
+2020,Rio de Janeiro,13456
+2001,São Paulo,18649
+2002,São Paulo,19867
+2003,São Paulo,19204
+2004,São Paulo,18612
+2005,São Paulo,17746
+2006,São Paulo,19222
+2007,São Paulo,17611
+2008,São Paulo,18464
+2009,São Paulo,17883
+2010,São Paulo,18284
+2011,São Paulo,19057
+2012,São Paulo,18628
+2013,São Paulo,19840
+2014,São Paulo,19654
+2015,São Paulo,20403
+2016,São Paulo,20395
+2017,São Paulo,22092
+2018,São Paulo,22302
+2019,São Paulo,21954
+2020,São Paulo,19419
+2001,Paraná,3158
+2002,Paraná,3320
+2003,Paraná,3450
+2004,Paraná,3309
+2005,Paraná,3373
+2006,Paraná,2965
+2007,Paraná,2993
+2008,Paraná,2990
+2009,Paraná,2824
+2010,Paraná,2793
+2011,Paraná,2759
+2012,Paraná,2525
+2013,Paraná,2635
+2014,Paraná,2557
+2015,Paraná,2484
+2016,Paraná,2444
+2017,Paraná,2474
+2018,Paraná,2859
+2019,Paraná,2850
+2020,Paraná,2904
+2001,Santa Catarina,1595
+2002,Santa Catarina,1851
+2003,Santa Catarina,1868
+2004,Santa Catarina,1855
+2005,Santa Catarina,1835
+2006,Santa Catarina,1873
+2007,Santa Catarina,1840
+2008,Santa Catarina,1988
+2009,Santa Catarina,2046
+2010,Santa Catarina,2078
+2011,Santa Catarina,2179
+2012,Santa Catarina,2247
+2013,Santa Catarina,2278
+2014,Santa Catarina,2236
+2015,Santa Catarina,2142
+2016,Santa Catarina,2213
+2017,Santa Catarina,2249
+2018,Santa Catarina,2245
+2019,Santa Catarina,2327
+2020,Santa Catarina,1619
+2001,Rio Grande do Sul,5044
+2002,Rio Grande do Sul,5487
+2003,Rio Grande do Sul,5752
+2004,Rio Grande do Sul,5928
+2005,Rio Grande do Sul,5644
+2006,Rio Grande do Sul,5290
+2007,Rio Grande do Sul,5416
+2008,Rio Grande do Sul,5673
+2009,Rio Grande do Sul,6129
+2010,Rio Grande do Sul,6159
+2011,Rio Grande do Sul,6320
+2012,Rio Grande do Sul,6389
+2013,Rio Grande do Sul,6342
+2014,Rio Grande do Sul,6397
+2015,Rio Grande do Sul,6398
+2016,Rio Grande do Sul,6036
+2017,Rio Grande do Sul,6529
+2018,Rio Grande do Sul,6864
+2019,Rio Grande do Sul,7615
+2020,Rio Grande do Sul,6604
+2001,Mato Grosso do Sul,957
+2002,Mato Grosso do Sul,897
+2003,Mato Grosso do Sul,973
+2004,Mato Grosso do Sul,1047
+2005,Mato Grosso do Sul,1085
+2006,Mato Grosso do Sul,898
+2007,Mato Grosso do Sul,960
+2008,Mato Grosso do Sul,1020
+2009,Mato Grosso do Sul,1052
+2010,Mato Grosso do Sul,926
+2011,Mato Grosso do Sul,1046
+2012,Mato Grosso do Sul,1092
+2013,Mato Grosso do Sul,1097
+2014,Mato Grosso do Sul,995
+2015,Mato Grosso do Sul,1003
+2016,Mato Grosso do Sul,1132
+2017,Mato Grosso do Sul,1128
+2018,Mato Grosso do Sul,1445
+2019,Mato Grosso do Sul,1413
+2020,Mato Grosso do Sul,1224
+2001,Mato Grosso,1359
+2002,Mato Grosso,1259
+2003,Mato Grosso,1230
+2004,Mato Grosso,1172
+2005,Mato Grosso,1350
+2006,Mato Grosso,1312
+2007,Mato Grosso,1154
+2008,Mato Grosso,1262
+2009,Mato Grosso,1183
+2010,Mato Grosso,1359
+2011,Mato Grosso,1352
+2012,Mato Grosso,1587
+2013,Mato Grosso,1891
+2014,Mato Grosso,1829
+2015,Mato Grosso,1406
+2016,Mato Grosso,1512
+2017,Mato Grosso,1425
+2018,Mato Grosso,1407
+2019,Mato Grosso,1541
+2020,Mato Grosso,1238
+2001,Goiás,1111
+2002,Goiás,1126
+2003,Goiás,1235
+2004,Goiás,1093
+2005,Goiás,1104
+2006,Goiás,993
+2007,Goiás,963
+2008,Goiás,955
+2009,Goiás,1000
+2010,Goiás,1020
+2011,Goiás,986
+2012,Goiás,1054
+2013,Goiás,1076
+2014,Goiás,993
+2015,Goiás,1093
+2016,Goiás,1031
+2017,Goiás,1143
+2018,Goiás,1217
+2019,Goiás,1165
+2020,Goiás,991
+2001,Distrito Federal,612
+2002,Distrito Federal,593
+2003,Distrito Federal,613
+2004,Distrito Federal,626
+2005,Distrito Federal,619
+2006,Distrito Federal,608
+2007,Distrito Federal,633
+2008,Distrito Federal,510
+2009,Distrito Federal,460
+2010,Distrito Federal,414
+2011,Distrito Federal,492
+2012,Distrito Federal,555
+2013,Distrito Federal,467
+2014,Distrito Federal,531
+2015,Distrito Federal,472
+2016,Distrito Federal,462
+2017,Distrito Federal,403
+2018,Distrito Federal,469
+2019,Distrito Federal,482
+2020,Distrito Federal,409
